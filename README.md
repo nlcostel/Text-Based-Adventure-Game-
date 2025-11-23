@@ -138,3 +138,10 @@ Software Engineering Skills:
 - Create a web-based interactive version
   
 - Add save/load system
+
+# 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project, provided proper credit is given.
+
+See the full license text in the [`LICENSE`](LICENSE) file.
