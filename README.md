@@ -78,7 +78,7 @@ Text-Based-Adventure-Game/
 
 # That's it! Follow the Prompts to Play. 
 
-[![Play the Game](https://img.shields.io/badge/Play_Now-Click_Here-brightgreen?style=for-the-badge)](#play-now)
+[![Play Now](https://img.shields.io/badge/Play_Now-000000?style=for-the-badge&logo=python&logoColor=white)](Game/Text-Based-Game.py)
 
 # For a Fully Executable Version of the Game- See Below.
 
