@@ -1,5 +1,8 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9e391d00-bbda-44ec-b7c8-dfe53e8ed674" />
 
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Project-Active-success) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
+
 # Text-Based-Adventure-Game-
 
 A branching path, interactive story written in Python. 
@@ -74,6 +77,8 @@ Text-Based-Adventure-Game/
    python CostelloTextBasedGame1.py
 
 # That's it! Follow the Prompts to Play. 
+
+[![Play the Game](https://img.shields.io/badge/Play_Now-Click_Here-brightgreen?style=for-the-badge)](#play-now)
 
 # For a Fully Executable Version of the Game- See Below.
 
